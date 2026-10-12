@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Hafsa</h1>
+# Hi, I'm Hafsa 👋
 
-<h3 align="center">
-  Frontend Developer • UI Engineer • UI/UX Enthusiast
-</h3>
+I'm a **Frontend Developer** passionate about creating modern, responsive, and user-friendly web experiences.
 
-### 👩‍💻 About Me
+I enjoy turning ideas and UI designs into real, interactive applications, with a strong focus on **clean interfaces, usability, and frontend architecture**.
 
-I'm a **Frontend Developer** passionate about creating modern, responsive,
-and user-friendly web experiences.
+🎓 Fresh graduate in Computer & Information Sciences  
+💻 Currently expanding my skills through the **ITI 9-Month Program – Full-Stack Web Development & UI Engineering with AI Integration**  
+🎨 UI/UX design background with Figma  
+🚀 Always learning, building, and improving
 
-I enjoy turning ideas and UI designs into real, interactive applications,
-with a strong focus on **clean interfaces, usability, and frontend architecture**.
+## ✨ A Little More About Me
 
-🎓 Fresh graduate in **Computer & Information Sciences**  
-💻 Currently training at **ITI – 9-Month Professional Training Program**, specializing in **Full-Stack Web Development & UI Engineering with AI Integration**  
-🎨 UI/UX design background with **Figma**  
-✨ I love the space where **design meets code**
+I especially enjoy **frontend development and UI engineering** — the space where design meets code.
+
+My goal is to build applications that don't just work well, but also feel **simple, intuitive, and enjoyable to use**.
+
+💬 I'm always interested in learning, collaborating, and working on meaningful web projects.
